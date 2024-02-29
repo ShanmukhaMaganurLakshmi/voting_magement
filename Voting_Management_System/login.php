@@ -70,7 +70,7 @@ header("location:index.php?page=home");
   		<div id="login-right">
 			
   			<div class="card col-md-8">
-			  <h1 style="text-alogn:center:">ONLINE VOTING SYSTEM</h1>
+			  <h1 style="text-alogn:center:">ONLINE VOTING </h1>
   				<div class="card-body">
   					<form id="login-form" >
   						<div class="form-group">
