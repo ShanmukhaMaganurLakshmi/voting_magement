@@ -75,7 +75,7 @@
 		<div id="login-right">
 
 			<div class="card col-md-8">
-				<h1 style="text-alogn:center:">ONLINEEEEEEEEEEEE</h1>
+				<h1 style="text-alogn:center:">ONLINE</h1>
 				<div class="card-body">
 					<form id="login-form">
 						<div class="form-group">
